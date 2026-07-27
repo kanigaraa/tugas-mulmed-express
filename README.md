@@ -1,4 +1,4 @@
-# Tugas 4 - Express.js & Drizzle ORM
+# Tugas KSM Multimedia Web Development: Express.js & Drizzle ORM
 
 REST API sederhana untuk manajemen data mahasiswa menggunakan Express.js, Drizzle ORM, dan PostgreSQL (Supabase).
 
